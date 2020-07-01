@@ -1,1 +1,1 @@
-# thermal_sdm660
+Thermal khusus untuk chipset sdm660
